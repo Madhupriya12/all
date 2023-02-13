@@ -3,6 +3,7 @@ redmi note
 8GB RAM
 cost : 17,000
 version :13.0
+
 version :15
 
 
